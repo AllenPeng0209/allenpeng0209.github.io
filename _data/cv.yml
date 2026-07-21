@@ -1,0 +1,85 @@
+cv:
+  name: Yanlun Peng
+  label: Autonomous Driving Researcher and Engineer
+  email: allenpeng0209@gmail.com
+  location: Beijing, China
+  image: ""
+  summary: Researcher and engineer building production-oriented autonomous-driving systems across multimodal foundation models, end-to-end driving, 3D perception, occupancy, and vehicle deployment.
+
+  sections:
+    Education:
+      - institution: Tsinghua University
+        location: Beijing, China
+        area: Computer Science and Technology
+        studyType: Master
+        start_date: 2016-09
+        end_date: 2019-06
+
+      - institution: University of California, Berkeley
+        location: Berkeley, CA, USA
+        area: Data Science
+        studyType: Master
+        start_date: 2017-09
+        end_date: 2018-06
+
+      - institution: National Cheng Kung University
+        location: Tainan, Taiwan
+        area: Civil Engineering; Minor in Computer Science
+        studyType: Bachelor
+        start_date: 2011-09
+        end_date: 2016-06
+
+    Experience:
+      - company: Great Wall Motor
+        position: Autonomous Driving Researcher and Engineer
+        location: China
+        start_date: 2025-06
+        end_date: Present
+        summary: Research and engineering for end-to-end autonomous driving, multimodal foundation models, and behavior world models.
+
+      - company: Horizon Robotics
+        position: Algorithm Engineer
+        location: China
+        start_date: 2023-05
+        end_date: 2025
+        summary: Led occupancy perception and multimodal end-to-end driving projects from data and training through deployment on production vehicles.
+        highlights:
+          - Led an eight-person team to build an urban-NOA occupancy stack from zero to production readiness.
+          - Built a large-scale training path for multimodal driving models using navigation, images, point clouds, trajectory distributions, and control outputs.
+          - Explored occupancy-guided 3D Gaussian reconstruction for onboard inference and simulation.
+
+      - company: QCraft
+        position: Algorithm Engineer
+        location: China
+        start_date: 2022-01
+        end_date: 2023-05
+        summary: Led vehicle-side perception deployment on NVIDIA Orin and Horizon Journey 5 platforms.
+        highlights:
+          - Managed detection, segmentation, occupancy data, model training, deployment, and latency optimization.
+          - Designed efficient C++ replacements for operators unsupported by target automotive chips.
+
+      - company: DeepRoute.ai
+        position: Perception Algorithm Engineer
+        location: China
+        start_date: 2020-07
+        end_date: 2021-12
+        summary: Developed production multi-task LiDAR perception models for detection, instance polygons, semantic segmentation, and motion segmentation.
+        highlights:
+          - Built multi-task training pipelines and sparse/dense model heads for online inference.
+          - Improved overall detection mAP by 3-5% and small-object mAP by 5-10% over the previous production model.
+          - Contributed methods that reached second place in nuScenes detection and third place in nuScenes semantic segmentation.
+
+    Skills:
+      - name: Research
+        level: Advanced
+        icon: fa-solid fa-flask
+        keywords: "Autonomous Driving, Vision-Language-Action Models, Multimodal Learning, Occupancy Prediction, 3D Reconstruction"
+      - name: Engineering
+        level: Advanced
+        icon: fa-solid fa-code
+        keywords: "Large-scale Training, PyTorch, Sparse Convolution, C++, Automotive Deployment, Performance Optimization"
+
+    Interests:
+      - name: Autonomous Intelligence
+        icon: fa-solid fa-car
+        keywords: "End-to-End Driving, Robotics, Embodied AI, Behavior World Models, Closed-Loop Evaluation"
