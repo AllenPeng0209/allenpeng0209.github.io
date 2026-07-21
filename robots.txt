@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://allenpeng0209.github.io/sitemap.xml
