@@ -1,12 +1,16 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-12'
 papers:
+  SU8dtjMAAAAJ:4MWp96NkSFoC:
+    citations: 0
+    title: Mitigating Visual Degradation in MLLMs via Spatial-Spectral Visual Anchor Learning
+    year: '2026'
   SU8dtjMAAAAJ:AvfA0Oy_GE0C:
     citations: 15
     title: 'Insightdrive: Insight scene representation for end-to-end autonomous driving'
     year: '2025'
   SU8dtjMAAAAJ:BUYA1_V_uYcC:
-    citations: 0
+    citations: 1
     title: 'ReactSim-Bench: Benchmarking Reactive Behavior World Model Simulation in Autonomous Driving'
     year: '2026'
   SU8dtjMAAAAJ:ML0RJ9NH7IQC:
